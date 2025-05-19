@@ -1,10 +1,10 @@
-# 🍕 Pizza Sales Analysis Dashboard
+# 🍕 Pizza Sales Analysis 
 
-This project analyzes pizza sales data to uncover key business insights. It includes a clean, interactive Excel dashboard that highlights sales trends, best-performing products, and customer behavior patterns.
+This project analyzes pizza sales data to uncover key business insights, that highlights sales trends, best-performing products, and customer behavior patterns.
 
 ## 📊 Project Overview
 
-The main goal of this project is to analyze pizza sales data and present insights in a dashboard that can help business stakeholders make data-driven decisions. This includes:
+The main goal of this project is to analyze pizza sales data and present insights that can help business stakeholders make data-driven decisions. This includes:
 
 - Tracking total sales and order volume
 - Identifying top-selling pizzas
